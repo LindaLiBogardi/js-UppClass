@@ -1,0 +1,71 @@
+
+#temp_languagePicker {
+    background-color: #717876
+}
+
+#four_links {
+    background-color: darkslategrey;
+}
+
+#teachers {
+    background-color: grey;
+    }
+
+#students {
+    background-color: grey;
+    }
+
+#schools {
+    background-color: grey;
+    }
+
+.button{
+    background-color: cadetblue;
+    color:blue;
+    display: inline-block;
+    font-size:16px;
+    margin:4px 2px;
+    cursor:pointer;
+}
+
+#mainMenu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align:center;
+}
+li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  #menu-outer {
+	background-color: darkslategrey;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
