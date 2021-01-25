@@ -2,22 +2,21 @@
 #temp_languagePicker {
     background-color: #717876
 }
+.language-picker {
+    width: 2000px;
+    padding: 20px 20px;
+    cursor: pointer;
+    background-color: #fff;
+    line-height: 20px;
+    display: block;
+    padding: 10px 10px;
+    text-align: left;
+    display: table-cell;
+}
 
 #four_links {
     background-color: darkslategrey;
 }
-
-#teachers {
-    background-color: grey;
-    }
-
-#students {
-    background-color: grey;
-    }
-
-#schools {
-    background-color: grey;
-    }
 
 .button{
     background-color: cadetblue;
@@ -69,3 +68,43 @@ ul#horizontal-list {
 	ul#horizontal-list li {
 		display: inline;
 	}
+
+.frontpage-button{
+    float: right;
+    text-align: center;
+    background-color:lightslategray;
+}
+
+#teachers {
+    width: 2000px;
+    padding: 20px 20px;
+    cursor: pointer;
+    background-color: dimgray;
+    line-height: 20px;
+    display: block;
+    padding: 10px 10px;
+    text-align: left;
+    display: table-cell;
+    }
+#students {
+    width: 2000px;
+    padding: 20px 20px;
+    cursor: pointer;
+    background-color: dimgray;
+    line-height: 20px;
+    display: block;
+    padding: 10px 10px;
+    text-align: left;
+    display: table-cell;
+    }
+#schools {
+    width: 2000px;
+    padding: 20px 20px;
+    cursor: pointer;
+    background-color: dimgray;
+    line-height: 20px;
+    display: block;
+    padding: 10px 10px;
+    text-align: left;
+    display: table-cell;
+    }
